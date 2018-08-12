@@ -1,0 +1,48 @@
+@media screen and (max-width: 768px) 
+{
+.tc-holiday-div
+{
+	position: absolute;
+	text-align: center;
+	overflow: hidden;
+}
+.tc-group-div2
+{
+	margin-top: 30px;
+}
+.tc-img-sec
+{
+	width: 100%;
+}
+.tc-heading-foot
+{
+	font-size: 32px;
+}
+.tc-footer-table1
+{
+	padding-left: 20px;
+}
+}
+@media screen and (max-width: 480px) 
+{
+.tc-holiday-div
+{
+	position: absolute;
+	width: 358px;
+    overflow: hidden;
+    left: 32px;
+}
+.tc-gift-icon
+{
+	top: 60px;
+	left: 0px;
+}
+}
+@media screen and (max-width: 1170px)
+{
+	.tc-bg-div2
+	{
+		left:10px;
+		padding-bottom: 8px;	
+	}
+}
